@@ -13,11 +13,13 @@
 
 ### Files and file structure
 - data/
-    - map_of_regions_of_india.jpg
     - indian_food.csv
+    - processed_indian_food.csv
 - figures/
+    - food_time.png 
 - notebooks/
     - data_processing.ipynb
+    - data_analysis.ipynb
 - README.md
 
 ### Data Source and Characteristics
@@ -68,6 +70,8 @@ The data for ingredients was very flawed, and completely useless. I know from th
 
 ## Conclusion
 To conclude a decent menu was made based on data where cooking time was concerned. It consisted of 4 items in each category, vegetarian, meat, starter/snacks and desserts. Some items I added that were not among the fastest cooking dishes for reasons of personal preference and popularity. Most of the dishes originated in the northern area of India, and the most common origin state was Punjab.
+
+The goal for this project was to complete it in under a week, data cleaning/processing and data analysis, and to take that information and present the results better than in the last project. 
 
 ## Acknowledgments
 Special thanks to my mentor, Logapriya Viswanathan, for her invaluable guidance and support throughout this project.
