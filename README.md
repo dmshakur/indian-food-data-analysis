@@ -1,7 +1,7 @@
 # Indian food data analysis project
 
 ## Introduction
-**Project Duration**: December 10th to
+**Project Duration**: December 10th to December 16th
 
 ### Participant Information
 - **Name**: D'angelo Shakur
